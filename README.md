@@ -24,6 +24,6 @@ Users can input their own dataset or generate random data to test and compare **
 - Compares all algorithms in a **summary table**  
 - **Menu-driven interface** with input validation  
 
----
 
-## 🧩 Project Structure
+
+
